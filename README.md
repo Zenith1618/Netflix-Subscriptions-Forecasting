@@ -7,6 +7,7 @@ Forecasting the number of subscriptions Netflix will achieve in a given time per
 ## Table of Contents
 - [Overview](#overview)
 - [Project Structure](#project Structure)
+- [Project Structure](#project Structure)
 - [Usage](#usage)
 - [Results](#results)
 - [Conclusion](#conclusion)
