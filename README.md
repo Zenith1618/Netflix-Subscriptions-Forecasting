@@ -11,8 +11,6 @@ Forecasting the number of subscriptions Netflix will achieve in a given time per
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Contributing](#contributing)
-
-- 
 ## Overview
 
 Netflix is a leading player in the highly competitive streaming industry. Accurate subscriber growth forecasts are essential for making informed business decisions. This project leverages time series analysis techniques to predict Netflix's quarterly subscription growth.
